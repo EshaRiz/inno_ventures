@@ -1,0 +1,195 @@
+#row1{
+    position: relative;
+    height: 50px;
+    background-color:#26B3B8 ;
+}
+#contact{
+    color: white;
+    line-height: 50px;
+    margin-left: 70px;
+
+}
+#contact a{
+    text-decoration: none;
+    color: white;
+}
+#contact a:hover{
+    text-decoration: underline;
+}
+#icons{
+   line-height: 50px;
+   
+}
+#icon a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    float: right;
+}
+#icom{
+    margin-left: 50px;
+}
+#icon a:hover{
+    color: #07575a;
+}
+/*contact header end*/
+
+/*main header css start*/
+
+#row2{
+    background-position: fixed;
+    height: 80px;
+    background-color:#4dd8dd ;
+    
+}
+#forlogo a #logo{
+    color: white;
+    font-family:"Mukta", sans-serif;
+    margin-top: 25px;
+    margin-left: 70px;
+    text-decoration: none;
+}
+#forlogo a #logo:hover{
+    text-decoration:double;
+    color: #07575a;
+}
+#fornav ul{
+    list-style-type: none;
+}
+#fornav li{
+    display: inline-block;
+    line-height: 80px;
+    margin-left: 20px;
+    font-family:"Quicksand", sans-serif;
+    font-size: 20px;
+}
+#fornav a{
+    color: white;
+}
+#fornav a:hover{
+    color: #07575a;
+}
+/*main header css end*/ 
+
+/*About us css start*/
+/* About heading css start*/
+
+#aboutheading{
+    height: 400px;
+    background-color:#4dd8dd  ;
+}
+
+
+#about_2{
+    text-align: center;
+    font-family:"Quicksand", sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 80px;
+}
+#aboutheading p{
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+    color:white;
+    text-align: center;
+}
+
+/* About heading css end*/
+
+#about{
+    text-align: center;
+    font-family:"Quicksand", sans-serif;
+    color: black;
+    margin-top: 80px;
+}
+#row5 #about_p1{
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+    color: #001414;
+    text-align: center;
+}
+#left{
+    height: 800px;
+    width: 500px;
+    
+    margin-left: 80px;
+    float: left;
+}
+#right{
+    height: 800px;
+    width: 500px;
+    
+    margin-left: 50px;
+    float: left;
+}
+#left img{
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+#right h5{
+    color: #001414;
+    text-decoration-line: underline;
+    font-size: 20px;
+}
+#right img{
+    border-radius: 30px;
+    margin-top: 20px;
+}
+/*About us css end*/
+
+
+/*Footer Css start*/
+#rowfooter{
+    height: 400px;
+    background-color: #4dd8dd;
+    margin-top: 50px;
+}
+#rowfooter #flogo{
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+#rowfooter #footerp{
+    margin-left: 30px;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#rowfooter i{
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+
+}
+#rowfooter i:hover{
+    color:#07575a;
+    
+}
+#footerheading{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+#footerlist ul{
+    list-style-type: none;
+}
+#footerlist li {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#footerlist a{
+    color: white;
+}
+#footerlist a:hover{
+    color: #07575a;
+}
+#adress{
+    color: white;
+    margin-left: 30px;
+}
+/*footer css end*/

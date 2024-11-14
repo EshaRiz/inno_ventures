@@ -1,0 +1,262 @@
+/*contact header start*/
+#row1{
+    position: relative;
+    height: 50px;
+    background-color:#26B3B8 ;
+}
+#contact{
+    color: white;
+    line-height: 50px;
+    margin-left: 70px;
+
+}
+#contact a{
+    text-decoration: none;
+    color: white;
+}
+#contact a:hover{
+    text-decoration: underline;
+}
+#icons{
+   line-height: 50px;
+   
+}
+#icon a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    float: right;
+}
+#icom{
+    margin-left: 50px;
+}
+#icon a:hover{
+    color: #07575a;
+}
+/*contact header end*/
+
+/*main header css start*/
+
+#row2{
+    background-position: fixed;
+    height: 80px;
+    background-color:#4dd8dd ;
+    
+}
+#forlogo a #logo{
+    color: white;
+    font-family:"Mukta", sans-serif;
+    margin-top: 25px;
+    margin-left: 70px;
+    text-decoration: none;
+}
+#forlogo a #logo:hover{
+    text-decoration:double;
+    color: #07575a;
+}
+#fornav ul{
+    list-style-type: none;
+}
+#fornav li{
+    display: inline-block;
+    line-height: 80px;
+    margin-left: 20px;
+    font-family:"Quicksand", sans-serif;
+    font-size: 20px;
+}
+#fornav a{
+    color: white;
+}
+#fornav a:hover{
+    color: #07575a;
+}
+/*main header css end*/ 
+
+/* About heading css start*/
+
+#portfolio{
+    height: 400px;
+    background-color:#4dd8dd  ;
+}
+
+
+#portfolio_heading{
+    text-align: center;
+    font-family:"Quicksand", sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 80px;
+}
+#portfolio p{
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+    color:white;
+    text-align: center;
+}
+
+/* About heading css end*/
+/*boxes css start*/
+#about{
+    text-align: center;
+    font-family:"Quicksand", sans-serif;
+    color:#26B3B8;
+    margin-top: 80px;
+    text-decoration: underline;
+}
+#boxes{
+    height: 450px;
+    
+}
+#imgbox{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(books-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox1{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(books-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox2{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(blog-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox2{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(blog-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox4{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(app-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox5{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(app-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox6{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(app-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox7{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(branding-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox8{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(branding-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#imgbox9{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+    background-image: url(branding-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#boxes:hover{
+    opacity: .8;
+}
+#parabox{
+    height: 150px;
+    width: 80%;
+    margin-left: 40px;
+    
+}
+#parabox p{
+    margin-top: 20px;
+}
+
+
+
+
+
+/*boxes css start*/
+/*Footer Css start*/
+#rowfooter{
+    height: 400px;
+    background-color: #4dd8dd;
+    margin-top: 50px;
+}
+#rowfooter #flogo{
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+#rowfooter p{
+    margin-left: 30px;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#rowfooter i{
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+
+}
+#rowfooter i:hover{
+    color:#07575a;
+    
+}
+#footerheading{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+#footerlist ul{
+    list-style-type: none;
+}
+#footerlist li {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#footerlist a{
+    color: white;
+}
+#footerlist a:hover{
+    color: #07575a;
+}
+#adress{
+    color: white;
+    margin-left: 30px;
+}
+/*footer css end*/
